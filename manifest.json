@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "ClintBot",
   "short_name": "ClintBot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Experience Clint's vocabulary like never before.",
   "author": "Jack Kingsman <jack.kingsman@gmail.com>",
   "background": {

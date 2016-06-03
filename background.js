@@ -93,11 +93,6 @@ var clintisms = {
       "title": "HmmmMMMMMmMMmmMMmmmMMmM",
       "string": "HmmmMMMMMmMMmmMMmmmMMmM",
       "enabled": true
-    },
-    "hm4": {
-      "title": "FUCKING BYE",
-      "string": "FUCKING BYE",
-      "enabled": true
     }
   },
 
