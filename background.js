@@ -25,6 +25,11 @@ var clintisms = {
       "string": "😒",
       "enabled": true
     },
+    "trash": {
+      "title": "Trash",
+      "string": "🗑",
+      "enabled": true
+    },
     "noseEye": {
       "title": ":^)",
       "string": ":^)",
