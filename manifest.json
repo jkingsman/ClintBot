@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "ClintBot",
+  "short_name": "ClintBot",
+  "version": "0.0.1",
+  "description": "Experience Clint's vocabulary like never before.",
+  "author": "Jack Kingsman <jack.kingsman@gmail.com>",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [{
+    "matches": ["*://*/*"],
+    "js": ["content_script.js"]
+  }],
+  "icons": {
+    "16": "img/clintthisisntsideeye16.png",
+    "48": "img/clintthisisntsideeye48.png",
+    "128": "img/clintthisisntsideeye128.png",
+    "256": "img/clintthisisntsideeye256.png"
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ]
+}
